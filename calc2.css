@@ -1,0 +1,76 @@
+html
+{
+    background-color: #4141e7;
+}
+
+h1
+{   position: relative;
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+    top: 80px;
+}
+.container{
+  width: 250px;
+  height: 350px;
+  background-color: aliceblue;
+  position: relative;
+  top: 90px;
+  left: 550px;
+  border-radius: 15px;
+}
+
+.disp{
+    width: 240px;
+    height: 70px;
+    border-radius: 15px 15px 0 0 ;
+    background-color: orangered;
+    color: white;
+    font-size: 40px;
+    font-weight: bold;
+    text-align: right;
+    padding: 5px;
+    border: none;
+}
+
+.button-box input
+{
+    width:43px;
+    height:50px;
+    margin: 8px;
+    background-color: rgb(187, 184, 184);
+    font-size: 25px;
+    font-weight: bold;
+    cursor: pointer;
+    border: none;
+    outline:none;
+    border-radius: 15px;
+}
+
+
+.btn:hover{
+    background-color: #b3dc62;
+}
+
+.btn1
+{   
+    color: white;
+    background-color: orangered
+    !important;
+}
+
+.btn2
+{   
+    color: white;
+    background-color: orange
+    !important;
+}
+
+.btn2:hover
+{   
+    background-color: #3f3fff   !important;
+}
+.btn1:hover
+{
+    background-color:cadetblue
+    !important;
+}
